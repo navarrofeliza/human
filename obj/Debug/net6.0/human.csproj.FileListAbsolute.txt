@@ -1,0 +1,5 @@
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\human\obj\Debug\net6.0\human.csproj.AssemblyReference.cache
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\human\obj\Debug\net6.0\human.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\human\obj\Debug\net6.0\human.AssemblyInfoInputs.cache
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\human\obj\Debug\net6.0\human.AssemblyInfo.cs
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\human\obj\Debug\net6.0\human.csproj.CoreCompileInputs.cache
